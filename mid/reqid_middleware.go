@@ -3,7 +3,7 @@ package mid
 import (
 	"net/http"
 
-	"gitlab.com/gocor/corctx"
+	"github.com/gocor/corctx"
 )
 
 // RequestIDHandler is a middleware that injects a request ID into the context of each

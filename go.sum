@@ -1,6 +1,6 @@
+github.com/gocor/corctx v1.0.1 h1:4HDuClo9QnY3v5VblIDWAa5R3NKTrAXqc00D9JA31Cs=
+github.com/gocor/corctx v1.0.1/go.mod h1:f9QHXnI9AbrF2KDKy43eXZWhofG9Hai9FKyka2iFRW8=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-gitlab.com/gocor/corctx v1.0.0 h1:lFBtO1LeSVJgOdznOj1gERx1ncE3cmqb4fbtd2LMLxY=
-gitlab.com/gocor/corctx v1.0.0/go.mod h1:vBxM2CGY2kEDaEuVHuiIX4GPxc7X3/msl4LhBczuROo=
